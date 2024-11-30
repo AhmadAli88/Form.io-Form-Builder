@@ -10,11 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.1",
+    "font-awesome": "^4.7.0",
     "global": "^4.4.0",
     "jquery": "^3.7.1",
+    "jspdf": "^2.5.2",
     "react": "^18.3.1",
-    "react-dnd": "^16.0.1",
-    "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18.3.1",
     "react-form-builder2": "^0.18.4"
   },
